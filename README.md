@@ -2,11 +2,11 @@
 
 **by Selvyana Natalia Purnomo, Joshua Andika, Muhammad Rifqi Sahib, Kairenzo Vemil**
 
-**CODA | Batch: RMT -021**
+**CODA | Batch: RMT-021**
 
 ## 📌 Project Overview
 
-This project performs the **Extract, Transform, and Load (ETL) process** using **Apache Airflow**. The pipeline extracts global black money transaction data, cleans and transforms it, then loads the processed data into PostgreSQL. The data is then visualized in Tableau to generate insights into:
+This project performs the **Extract, Transform, and Load (ETL) process** using **Apache Airflow**. The pipeline extracts global black money transaction data, cleans and transforms it, then loads the processed data into **PostgreSQL**. The data is then visualized in **Tableau** to generate insights into:
 
 📊 **Money laundering risk score distribution**
 
@@ -17,3 +17,9 @@ This project performs the **Extract, Transform, and Load (ETL) process** using *
 📈 **Risk score patterns across industries and transaction groups**
 
 These insights aim to provide a better understanding of transaction risk patterns and support risk-based monitoring and further investigation of potentially suspicious transactions.
+
+## 📖 Background
+
+Based on existing research, the growing complexity of global financial transactions makes high-risk activities increasingly difficult to detect. Black money refers to hidden or untaxed funds that may flow through tax havens, jurisdictions often associated with low tax rates and financial secrecy. Shell companies and tax havens are important indicators in Anti-Money Laundering (AML) monitoring.
+
+To better understand these patterns, this project analyzes **the Global Black Money Transactions Dataset, focusing on Risk Score, shell company involvement, tax haven activity, industry differences, reporting status, and cross-border transaction routes**. The analysis aims to provide data-driven insights into transaction risk patterns and support a more structured understanding of AML-related indicators.
