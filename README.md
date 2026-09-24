@@ -70,4 +70,12 @@ This project **processes and analyzes global black money transaction data throug
 💼 **Muhammad Rifqi Sahib** - [Linkedin](https://www.linkedin.com/in/rifqi-sahib)  
 💼 **Kairenzo Vemil** - [Linkedin](https://linkedin.com/in/kairenzo-vemil-51027b36a)
 
-
+## File Explanation
+Final_Project_Kelompok_2.ipynb : was file for data analysis
+script/extract.py : was file for extracting dataset
+script/transform.py : was file for transforming raw dataset
+script/load.py : was file for load the transform dataset into postgresSQL
+script/main.py : was file for organize the route for the airflow job
+script/validate.py : was file for great expectation validation
+script/test.py : both file was testing the file from local running without disturb the pipeline flow
+dags/big_black_money_dag.py : was file for managing the job for the airflow
