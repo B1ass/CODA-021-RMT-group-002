@@ -35,3 +35,14 @@ Additionally, we aim to provide **data-driven insights and practical recommendat
 ## 📂 Dataset Source
 
 📌 [Dataset Link](https://www.kaggle.com/datasets/waqi786/global-black-money-transactions-dataset/)
+
+## ⚙️ Data Analysis and ETL Process (Airflow DAG)
+
+This project **processes and analyzes global black money transaction data through an ETL workflow orchestrated using Apache Airflow**. The data is **extracted and processed using Python, validated for data quality, and stored in PostgreSQL**. The analyzed data is then **visualized in Tableau** to explore transaction patterns and money laundering risk indicators.
+
+🔹 **Step 1: Extract & Transform** – Uses Python to load, clean, and prepare transaction data for analysis.  
+🔹 **Step 2: Data Validation** – Applies Great Expectations to validate data quality and ensure data consistency.  
+🔹 **Step 3: Load** – Stores the processed data in PostgreSQL for further analysis.  
+🔹 **Step 4: Workflow Orchestration** – Uses Apache Airflow to manage and orchestrate the ETL workflow.  
+🔹 **Step 5: Data Visualization** – Presents analytical findings through Tableau dashboards.
+
