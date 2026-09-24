@@ -1,6 +1,6 @@
 # 🚀 Hacktiv8 - Final Project
 
-**by Selvyana Natalia Purnomo, Joshua Andika, Muhammad Rifqi Sahib, Kairenzo Vemil**
+**by Selvyana Natalia Purnomo, Joshua Andika, Muhammad Rifqi Sahib, Kairenzo Vemil**  
 **CODA | Batch: RMT-021**
 
 ## 📌 Project Overview
@@ -31,3 +31,7 @@ As Data Analysts, our goal is to prepare a **comprehensive report** that provide
 ✔️ **Cross-border transaction route patterns**  
 
 Additionally, we aim to provide **data-driven insights and practical recommendations** based on the observed patterns and statistical findings to **support a more structured understanding of transaction risk and Anti-Money Laundering (AML) monitoring**.
+
+## 📂 Dataset Source
+
+📌 [Dataset Link] (https://www.kaggle.com/datasets/waqi786/global-black-money-transactions-dataset/)
