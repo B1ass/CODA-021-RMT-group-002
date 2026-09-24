@@ -63,4 +63,11 @@ This project **processes and analyzes global black money transaction data throug
 ✅ Statistical findings providing a clearer understanding of risk patterns across transaction groups and cross-border routes.  
 ✅ AML monitoring insights supporting more structured risk assessment and further investigation of potentially unusual transaction patterns.  
 
+## ⛓️‍💥 Let's Connect!
+
+💼 **Selvyana Natalia Purnomo** - [Linkedin](https://www.linkedin.com/in/selvyanatalia)  
+💼 **Joshua Andika** - [Linkedin](https://www.linkedin.com/in/joshua-andika)  
+💼 **Muhammad Rifqi Sahib** - [Linkedin](https://www.linkedin.com/in/rifqi-sahib)  
+💼 **Kairenzo Vemil** - [Linkedin](https://linkedin.com/in/kairenzo-vemil-51027b36a)
+
 
