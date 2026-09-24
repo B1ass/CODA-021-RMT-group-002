@@ -1,4 +1,4 @@
-# 🚀 Hacktiv8 - Final Project
+<img width="460" height="92" alt="image" src="https://github.com/user-attachments/assets/227e89d4-95f4-4c9d-9129-42553d3ec8f9" /># 🚀 Hacktiv8 - Final Project
 
 **by Selvyana Natalia Purnomo, Joshua Andika, Muhammad Rifqi Sahib, Kairenzo Vemil**  
 **CODA | Batch: RMT-021**
@@ -45,4 +45,22 @@ This project **processes and analyzes global black money transaction data throug
 🔹 **Step 3: Load** – Stores the processed data in PostgreSQL for further analysis.  
 🔹 **Step 4: Workflow Orchestration** – Uses Apache Airflow to manage and orchestrate the ETL workflow.  
 🔹 **Step 5: Data Visualization** – Presents analytical findings through Tableau dashboards.
+
+## 🏗️ Technology Stack
+
+✅ Python – Handles data processing, cleaning, and analysis.  
+✅ Docker – Provides a containerized environment for project execution.  
+✅ Apache Airflow – Orchestrates and manages the ETL workflow.  
+✅ PostgreSQL – Stores the processed transaction data.  
+✅ Great Expectations – Validates data quality and consistency.  
+✅ Tableau – Creates interactive dashboards to visualize analytical findings.  
+
+## 📌 Conclusion and Business Impact
+
+✅ Automated ETL workflow using Apache Airflow to streamline data processing and integration.  
+✅ Reliable data quality through Great Expectations validation before loading data into PostgreSQL.  
+✅ Data-driven insights into global black money transaction patterns, Risk Scores, shell company involvement, and tax haven activity.  
+✅ Statistical findings providing a clearer understanding of risk patterns across transaction groups and cross-border routes.  
+✅ AML monitoring insights supporting more structured risk assessment and further investigation of potentially unusual transaction patterns.  
+
 
