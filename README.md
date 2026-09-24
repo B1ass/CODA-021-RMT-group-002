@@ -1,4 +1,4 @@
-<img width="460" height="92" alt="image" src="https://github.com/user-attachments/assets/227e89d4-95f4-4c9d-9129-42553d3ec8f9" /># 🚀 Hacktiv8 - Final Project
+🚀 Hacktiv8 - Final Project
 
 **by Selvyana Natalia Purnomo, Joshua Andika, Muhammad Rifqi Sahib, Kairenzo Vemil**  
 **CODA | Batch: RMT-021**
